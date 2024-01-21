@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Abdurahman Card Section 17](Documentation/ss-1.png)
+![Abdurahman Card Section 17](Documentation/ss-1.jpeg)
 
 ## New Concepts
 
